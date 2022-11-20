@@ -1,4 +1,4 @@
-# Apple Redesign
+# Apple Re-design
 
 ![appleredesign](https://user-images.githubusercontent.com/100989693/202894586-2fcd0623-c15f-4e30-b2a2-08b923bfb011.png)
 
