@@ -1,3 +1,15 @@
+# Apple Redesign
+
+![appleredesign](https://user-images.githubusercontent.com/100989693/202894586-2fcd0623-c15f-4e30-b2a2-08b923bfb011.png)
+
+![Screenshot (77)](https://user-images.githubusercontent.com/100989693/202894700-0491cbbe-0734-47a3-b3ac-7c616417a32a.png)
+
+![Screenshot (79)](https://user-images.githubusercontent.com/100989693/202894725-48f532dd-1247-4c1f-8614-ff8ccb2d325e.png)
+
+![Screenshot (78)](https://user-images.githubusercontent.com/100989693/202894714-0d6cd4f2-a70f-44ca-8465-cb84993aa4cc.png)
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
